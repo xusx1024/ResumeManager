@@ -1,0 +1,64 @@
+- 简历根据猎聘的一份简历做的模板
+
+JLabel -- TextView
+JButton -- Button
+JCheckBox -- CheckB
+JRadioButton -- RadioButton
+JList -- ListView
+JTextField,JPasswordField,JTextArea -- EditText
+JSpinner -- Spinner
+
+组件展示元素
+容器展示组件
+框架组织容器
+
+差不多相当于:layout嵌套和控件组合
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,122 @@
+ v\: * {
+ behavior: url(#default#VML)
+ }
+ o\: * {
+ behavior: url(#default#VML)
+ }
+ w\: * {
+ behavior: url(#default#VML)
+ }
+ .shape {
+ behavior: url(#default#VML)
+ }
+ jianfei.qu
+ yinglong xu
+ 4
+ 301
+ 2014-06-26T08:10:00Z
+ 2014-06-26T08:45:00Z
+ 2
+ 284
+ 1624
+ 13
+ 3
+ 1905
+ 14.0
+ Print
+ 120
+ Clean
+ Clean
+ false
+ 0 pt
+ 0 pt
+ 0
+ 3
+ false
+ false
+ false
+ false
+ EN-US
+ ZH-CN
+ X-NONE
+ $([{￡￥・‘“〈《「『【〔〖〝﹙﹛﹝＄（．［｛￡￥
+ !%),.:&gt?]}￠¨°・ˇˉ―∥’”‰′″›℃∶、。〃〉》」』】〕〗〞?????﹚﹜﹞！＂％＇），．:；？］｀｜｝～￠
+ MicrosoftInternetExplorer4
+ /* Style Definitions */
+ table.MsoNormalTable {
+ mso-style-name: 普 通 表 格
+ mso-tstyle-rowband-size: 0
+ mso-tstyle-colband-size: 0
+ mso-style-noshow: yes
+ mso-style-priority: 99
+ mso-style-parent: ""
+ mso-padding-alt: 0cm 5.4pt 0cm 5.4pt
+ mso-para-margin: 0cm
+ mso-para-margin-bottom: .0001pt
+ mso-pagination: widow-orphan
+ font-size: 10.0pt
+ mso-bidi-font-size: 10.5pt
+ font-family: Calibri
+ }
+ 目前求职状态:在职，看看新机会 ， 随时可以打电话联系我。
+ 主动应聘职位: 无 
+ 简历编号信息: 888e96eeSe4ed48cf
+ 简历更新时间: 2017-11-24 00:27:39
+ 个人信息
+ 姓名: 金明岩
+ 性别: 男
+ 手机号码: 13910133232
+ 年龄: 38
+ 电子邮件: j_m_y_forever@163.com
+ 教育程度: 本科
+ 工作年限: 16 年以上
+ 婚姻状况: 保密
+ 所在地: 北京
+ 目前职业概况: 所在行业: 互联网/移动互联网/电子商务
+ 公司名称: 凤凰在线(北京)信息技术有限公司
+ 所任职位: 副总裁/副总经理
+ 目前年薪: 保密
+ 职业发展意向: 期望行业: 互联网/移动互联网/电子商务
+ 期望职位: 副总裁/副总经理
+ 期望地点: 北京
+ 期望年薪: 勿推企业: 面议
+ 凤凰在线(北京)信息技术有限公司
+ 工作经历
+ 2011.03-至今
+ 凤凰在线(北京)信息技术有限公司
+ 公司性质:未填写
+ | 
+ 公司规模: 未填写
+ | 
+ 公司行业:互联网/移动互联网/电子商务
+ 公司描述:未填写
+ 副总裁
+ 1元/月
+ 所在地区:北京
+ |
+ 所在部门:未填写
+ 工作职责和业绩: 按照公司发展战略，制定技术方向规划并管理技术团队。
+ 2001.07-2011.03
+ 北京润汇科技有限公司
+ 公司性质:未填写
+ | 
+ 公司规模: 未填写
+ | 
+ 公司行业:计算机软件
+ 公司描述:未填写
+ 首席技术执行官CTO
+ 下属人数:100 | 
+ 所在地区:北京
+ |
+ 所在部门:未填写
+ 工作职责和业绩: 负责公司技术战略的制定和执行。参与产品设计和研发，有架构师工作经历，主动设计并开发了多个电信行业相关平台软件，获得专利和国家级相关奖项。
+ 项目经历
+ 教育经历
+ 北京交通大学
+ （ 1997.09-2001.07 ）
+ 专业:计算机科学与技术
+ 学历:本科
+ 是否统招:是
+ 语言能力
+ 普通话
+ 自我评价
